@@ -1,0 +1,19 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: cadetblue;
+}
+
+h1 {
+    color: aquamarine;
+    font-family: 'Press Start 2P', cursive;
+}
+
+canvas {
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
